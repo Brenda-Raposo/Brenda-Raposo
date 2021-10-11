@@ -1,5 +1,5 @@
 ### Olá, meu nome é Brenda Raposo
- 🎓 Sou estudante de Desevolvimento Web focada em Front-End
+ 🎓 Sou estudante de Desenvolvimento Web focada em Front-End
  
  ☀️ Tenho 21 anos
 
